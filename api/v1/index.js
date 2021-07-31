@@ -5,4 +5,4 @@ const customer = require('./customer');
 
 
 
-module.exports= [users]
+module.exports= [users,customer]
